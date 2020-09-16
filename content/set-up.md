@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Set-up
+title: Setting up a trial account
 nav_order: 5
 ---
 # How to set up a trial account

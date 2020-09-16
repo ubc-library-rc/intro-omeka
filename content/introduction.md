@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Digital Exhibits
+title: Introduction
 nav_order: 3
 ---
 # Digital Exhibits
