@@ -31,8 +31,8 @@ By the end of this tutorial you should be able to…
 | 1:00 | Wrap-up and Discussion |
 
 ## Resources:
-* Participants can sign up for a trial account at https://www.omeka.net/signup
-* Slides: https://docs.google.com/presentation/d/1e0hIIRb7OBR9xs0uH-3sj2_mUTsl0J2IoRvyY8jH3BU/edit?usp=sharing
+* Participants can sign up for a trial account at [https://www.omeka.net/signup](https://www.omeka.net/signup)
+* [Workshop slides](https://docs.google.com/presentation/d/1e0hIIRb7OBR9xs0uH-3sj2_mUTsl0J2IoRvyY8jH3BU/edit?usp=sharing)
 
 ## What is this workshop not about?
 
