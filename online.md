@@ -37,4 +37,3 @@ The _Whiteboard_ is a collaborative space that everyone can annotate with drawin
 This opens the annotation toolbar. Drawings and text you add to the screen will be visible to everyone in the session or breakout room.
 
 ![The annotation toolbar](content/zoom-figures/annotate_toolbar.png)
-slides

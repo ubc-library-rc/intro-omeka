@@ -9,10 +9,6 @@ nav_order: 5
 
 text
 
-<img src="images/Omeka-trial-signup-2.png" alt="Omeka trial sign up pricing" width="800" height="auto">
-
-text
-
-<img src="images/Omeka-trial-signup-2.png" alt="Omeka trial sign up pricing" width="800" height="auto">
+<img src="images/Omeka-trial-signup2.png" alt="Omeka trial sign up pricing" width="800" height="auto">
 
 text
