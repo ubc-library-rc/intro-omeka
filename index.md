@@ -4,8 +4,6 @@ title: Outline
 nav_order: 1
 ---
 
-## Note: this workshop is in development and not yet complete.
-
 ## Building Exhibits with Omeka.net
 This workshop will provide an introduction to the free trial version of Omeka.net, a web publishing platform that allows users to display and curate digital collections.
 
