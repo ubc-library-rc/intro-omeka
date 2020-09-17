@@ -9,7 +9,7 @@ Omeka sites are made up of items, collections, and exhibits.
 
 An **item** is the basic unit of an Omeka site. Items are records which can be attached to   a file (jpeg, mp4, pdf, etc).
 
-Omeka also allows you to add **metadata** to each item. Metadata is information about an item such as title, author, publisher, date, etc. Omeka.net uses the [Dublin Core](https://dublincore.org/) metadata schema which is easy to modify. Metadata makes the items discoverable and is important for making the items on your website searchable. Omeka provides the fields for you to enter the information. Feel free to modify but try and stay consistent.
+Omeka also allows you to add **metadata** to each item. Metadata is information about an item such as title, author, publisher, date, etc. Omeka.net uses the [Dublin Core](https://dublincore.org/) metadata schema which is easy to modify. Metadata makes the items on your website searachable. Omeka provides the fields for you to enter the information. Feel free to modify but try and stay consistent.
 
 **Collections** are useful for grouping or organizing items. You can link between items in different collections using tags. Tags allow you to link items together with terms of your choosing. When any two items have the same tag, the tag automatically turns into a link. Omeka sites allow you to browse items by tag.
 
