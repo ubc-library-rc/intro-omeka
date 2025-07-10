@@ -4,7 +4,7 @@ title: Outline
 nav_order: 1
 ---
 
-## Building Exhibits with Omeka.net
+# Building Exhibits with Omeka
 This workshop will provide an introduction to the free trial version of Omeka.net, a web publishing platform that allows users to display and curate digital collections.
 
 This workshop is part of the <a href="https://libcal.library.ubc.ca/calendar/vancouver/?t=g&q=Digital%20toolkit&cid=7544&cal=7544&inc=0">Digital Toolkit series</a> co-presented by the <a href="https://researchcommons.library.ubc.ca/">UBC Library Research Commons at UBC-V</a>  and <a href="https://library.ok.ubc.ca/">UBC-O Library</a>.
